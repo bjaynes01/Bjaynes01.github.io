@@ -108,25 +108,22 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "Aurora food pantry",
+      "website": "https://www.aurorafoodpantry.org/",
+      "position": "grocery loader",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Volunteered time at the food pantry to distribute food.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Green and Gold Award",
       "date": "2018-Present",
       "awarder": "Waubonsie High School",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Award for graduating with a gpa of 4 or higher."
     }
   ],
   "references": [
