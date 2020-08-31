@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ben Jaynes",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/photo.png",
+    "email": "bjaynes01@aurora.edu",
+    "phone": "630-945-6315",
+    "website": "https://bjaynes01.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "bjaynes01",
+        "url": "http://github.com/bjaynes01"
       },
       {
         "network": "linkedin",
