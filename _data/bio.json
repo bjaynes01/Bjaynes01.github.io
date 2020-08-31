@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "210 S. Oakhurst Dr.",
-      "postalCode": "96822",
+      "postalCode": "60504",
       "city": "Aurora",
       "countryCode": "USA",
       "region": "IL"
@@ -31,8 +31,6 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
