@@ -8,10 +8,10 @@ permalink: projects/vacay
 date: 2015-12-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - Laravel
+  - Bootstrap
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: This project involved using Javascript, Bootstrap, and laravel to create an application to track and log computer lab time at Aurora university.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
