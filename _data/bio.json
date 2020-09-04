@@ -6,7 +6,7 @@
     "email": "bjaynes01@aurora.edu",
     "phone": "630-945-6315",
     "website": "https://bjaynes01.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Aurora University. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "210 S. Oakhurst Dr.",
       "postalCode": "60504",
@@ -109,7 +109,7 @@
       "title": "Green and Gold Award",
       "date": "2018-Present",
       "awarder": "Waubonsie High School",
-      "summary": "Award for graduating with a gpa of 4 or higher."
+      "summary": "Award for graduating with a gpa of 4.0or higher."  
     }
   ],
   "references": [
