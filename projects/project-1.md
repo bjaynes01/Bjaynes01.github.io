@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Aurora Food Pantry Application
-permalink: projects/micromouse.jpg
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-8-21
 labels:
