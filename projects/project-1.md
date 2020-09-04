@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/download.jpg
 title: Food Pantry Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
