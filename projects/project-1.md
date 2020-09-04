@@ -15,9 +15,6 @@ summary: My team tried to develope an application for the Aurora Food Pantry to 
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 In this project we were required to develope an application for the Aurora food pantry as to simulate working on a project with a team for a job.  This was a great learning experience for me because of the new experience with github and sharing code amongst a team and getting all of the parts of a project to work together.  
