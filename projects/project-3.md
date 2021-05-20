@@ -2,19 +2,19 @@
 layout: project
 type: project
 image: images/GamingArt.jpg
-title: Gart - Gaming Art
-permalink: projects/cotton
+title: GART - Gaming Art
+permalink: projects/GART
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-03-20
 labels:
-  - Lisp
   - GitHub
   - MongoDB
   - Node.JS
   - javascript
   - JSX files
+  - MERN Stack developement
   - 
-summary: A text adventure game I developed for ICS 313.
+summary: For my capstone project my groupd decided to develope an application that would function alot like a social media platform for those who would want to share videgame are with others.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/GamingArt.jpg">
