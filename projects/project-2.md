@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/computer.jpg
 title: Web App Project
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
