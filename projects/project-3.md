@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/GamingArt.jpg
 title: GART - Gaming Art
-permalink: projects/GART
+permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2021-03-20
 labels:
