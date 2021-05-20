@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/GamingArt.jpg
 title: GART - Gaming Art
-permalink: projects/cotton
+permalink: projects/GART
 # All dates must be YYYY-MM-DD format!
 date: 2021-03-20
 labels:
@@ -13,7 +13,9 @@ labels:
   - javascript
   - JSX files
   - MERN Stack developement
-  - 
+  - Visual Studio Code
+  - PostMaster
+  - CSS developement
 summary: For my capstone project my groupd decided to develope an application that would function alot like a social media platform for those who would want to share videgame are with others.
 ---
 
