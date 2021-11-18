@@ -31,5 +31,5 @@ This was our Capstone project called GART - It was developed under the idea of m
 
 <hr>
 
-Source: <a href="https://github.com/jsmolucha/CSC4990GART"><i class="large github icon "></i>GART- source</a>
+Source: <a href="https://github.com/bjaynes01/CSC4990GART"><i class="large github icon "></i>GART- source</a>
 
