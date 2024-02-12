@@ -6,7 +6,7 @@
     "email": "bjaynes01@aurora.edu",
     "phone": "630-945-6315",
     "website": "https://bjaynes01.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at Aurora University. I expect to graduate in Spring, 2022.",
+    "summary": "I am currently working as a Data Engineer at LTIMindtree.  This is a portfolio of some of my college websites / application that I built as projects in college. ",
     "location": {
       "address": "210 S. Oakhurst Dr.",
       "postalCode": "60504",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "ben.jaynes@comcast.net",
-        "url": "https://www.linkedin.com/in/benjamin-jaynes-6ab5aa17a/"
+        "url": "www.linkedin.com/in/benjamin-a-jaynes"
       }
     ]
   },
@@ -85,10 +85,10 @@
   ],
   "work": [
     {
-      "company": "NA",
-      "position": "NA",
+      "company": "LTIMindtree",
+      "position": "Data Engineer",
       "website": "",
-      "startDate": "NA",
+      "startDate": "January, 24 2022",
       "endDate": "NA",
       "summary": "NA",
       "highlights": [
