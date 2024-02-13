@@ -84,8 +84,19 @@
       "name": "Web Developement Technologies & Frameworks",
       "level": "",
       "keywords": [
-        "Windows OS",
-        "Git/GitHub"
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "MERN Stack"
+      ]
+    },
+    {
+      "name": "Version Control & Task Tracking",
+      "level": "",
+      "keywords": [
+        "GIT/Github",
+        "Azure Dev Ops"
       ]
     }
   ],
