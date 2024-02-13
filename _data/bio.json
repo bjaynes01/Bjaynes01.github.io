@@ -147,6 +147,14 @@
     {
       "title": "SnowPro® Core Certification",
       "awarder": "Snowflake"
+    },
+    {
+      "title": "Databricks Certified Data Engineer Associate",
+      "awarder": "Databricks"
+    },
+    {
+      "title": "[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer",
+      "awarder": "OPEN EDG Python Institute"
     }
   ],
   "references": [
