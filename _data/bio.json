@@ -70,19 +70,18 @@
       ]
     },
     {
-      "name": "Cloud and Data",
+      "name": "Cloud & Data Technologies",
       "level": "",
       "keywords": [
         "Azure Cloud",
         "Snowflake",
         "Databricks",
-        "ETL and ELT",
-        "SQL",
-        "Hive"
+        "Hive",
+        "ETL & ELT"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Web Developement Technologies & Frameworks",
       "level": "",
       "keywords": [
         "Windows OS",
