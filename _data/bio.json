@@ -6,9 +6,9 @@
     "email": "bjaynes01@aurora.edu",
     "phone": "630-945-6315",
     "website": "https://bjaynes01.github.io",
-    "summary": "I am currently working as a Data Engineer at LTIMindtree.  This is a portfolio of some of my college websites / applications that I built as projects in college. ",
+    "summary": "I am currently working as a Data Engineer at LTIMindtree.  This is a portfolio of some of my college websites / applications that I built as projects I built in college and my own time.",
     "location": {
-      "address": "210 S. Oakhurst Dr. ",
+      "address": "210 S. Oakhurst Dr.",
       "postalCode": "60504",
       "city": "Aurora",
       "countryCode": "USA",
@@ -29,24 +29,42 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cloud Computing Technologies",
       "keywords": [
+        "Azure Cloud"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
+        "Code Developement"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Big Data",
       "keywords": [
-        "gaming AI"
+        "Azure",
+        "Snowflake",
+        "Databricks"
       ]
     },
     {
-      "name": "Video Game Developement",
+      "name": "Artificial Intelligence",
       "keywords": [
+        "Chat GPT",
+        "Dall-e"
+      ]
+    },
+    {
+      "name": "Golf",
+      "keywords": [
+        "PXG"
+      ]
+    },
+    {
+      "name": "Baseball",
+      "keywords": [
+        "Cubs"
       ]
     }
   ],
@@ -55,11 +73,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
+        "Python",
         "Javascript",
-        "Laravel"
+        "C",
+        "C++"
       ]
     },
     {
