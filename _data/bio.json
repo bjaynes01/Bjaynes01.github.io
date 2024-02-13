@@ -135,6 +135,14 @@
       "summary": "Award for graduating with a gpa of 4.0 or higher."  
     }
   ],
+  "certifications": [
+    {
+      "title": "Azure AZ-900: Azure Fundamentals",
+      "date": "2022-Present",
+      "awarder": "Microsoft",
+      "summary": "Proves basic understanding of Azure Fundamentals."  
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
