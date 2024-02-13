@@ -12,7 +12,7 @@
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
         <p class="ui no-bottom">
-          <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
+          <b>{{ entry.title }}</b> ({{ entry.awarder }}){% if entry.date %}, Expires: {{ entry.date }}{% endif %}
         </p>
         <!-- commenting out summary.
           <p class="ui">{{ entry.summary }}</p>
