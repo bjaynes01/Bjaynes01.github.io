@@ -77,8 +77,8 @@
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-09-01",
-      "endDate": "Present",
-      "gpa": "4.0",
+      "endDate": "2021-11-12",
+      "gpa": "3.9",
       "courses": [
       ]
     }
@@ -88,9 +88,9 @@
       "company": "LTIMindtree",
       "position": "Data Engineer",
       "website": "",
-      "startDate": "January, 24 2022",
-      "endDate": "NA",
-      "summary": "NA",
+      "startDate": "01-24-2022",
+      "endDate": "Present",
+      "summary": "This is my current workplace, I have done Data Engineering consulting.  At my time at LTIMindtree I gained experience working with Azure Cloud Technologies, Snowflake, and Databricks.",
       "highlights": [
         
       ]
@@ -114,7 +114,7 @@
       "title": "Green and Gold Award",
       "date": "2018-Present",
       "awarder": "Waubonsie High School",
-      "summary": "Award for graduating with a gpa of 4.0or higher."  
+      "summary": "Award for graduating with a gpa of 4.0 or higher."  
     }
   ],
   "references": [
