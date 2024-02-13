@@ -153,8 +153,16 @@
       "awarder": "Databricks"
     },
     {
+      "title": "SQL (Advanced) Certificate",
+      "awarder": "Hackerrank"
+    },
+    {
       "title": "[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer",
       "awarder": "OPEN EDG Python Institute"
+    },
+    {
+      "title": "Basic Proficiency in KNIME Analytics Platform",
+      "awarder": "KNIME"
     }
   ],
   "references": [
