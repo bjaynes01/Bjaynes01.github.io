@@ -54,18 +54,6 @@
         "Chat GPT",
         "Dall-e"
       ]
-    },
-    {
-      "name": "Golf",
-      "keywords": [
-        "PXG"
-      ]
-    },
-    {
-      "name": "Baseball",
-      "keywords": [
-        "Cubs"
-      ]
     }
   ],
   "skills": [
