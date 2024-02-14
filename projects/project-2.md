@@ -10,10 +10,11 @@ labels:
   - HTML
   - Javascript
   - CSS
+  - PUG
   - Bootstrap
   - GitHub
-  - node.js
-  - npm modules
+  - Node.js
+  - NPM modules
 summary: This project involved creating an application for to organize alot of people into meetings for lunch.  
 ---
 
