@@ -15,7 +15,7 @@ labels:
   - GitHub
   - Node.js
   - NPM modules
-summary: This project involved creating an application for to organize people into four person groups for organized dinning in the cafeteria during events.  
+summary: This project involved creating an application for organizing people into four person groups for group dinning in the cafeteria during events.  
 ---
 
 <img class="ui medium right floated rounded image" src="../images/computer.jpg">
