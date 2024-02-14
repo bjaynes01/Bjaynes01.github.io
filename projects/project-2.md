@@ -17,6 +17,6 @@ summary: This project involved creating an application for to organize alot of p
 
 <img class="ui medium right floated rounded image" src="../images/computer.jpg">
 
-Project requirements were given to us by professor.  The stated requirements were to develop an application that that would randomly select students from a list (database) to be asigned a group table for an event every week.
+Project requirements were given to us by professor.  The stated requirements were to develop an application that that would randomly select students from a list (database) to be assigned a group table for an event every week.
  
 Source: <a href="https://github.com/JZipse/AUlunchFor4">AU Lunch for 4</a>
