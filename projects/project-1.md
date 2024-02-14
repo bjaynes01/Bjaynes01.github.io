@@ -11,7 +11,7 @@ labels:
   - Java
   - Github
   - Teamwork
-summary: My team tried to develope an application for the Aurora Food Pantry to track volunteer hours of common volunteers at the pantry.
+summary: My team tried to develop an application for the Aurora Food Pantry to track volunteer hours of common volunteers at the pantry.
 ---
 
 <div class="ui small rounded images">
