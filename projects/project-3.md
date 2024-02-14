@@ -12,7 +12,7 @@ labels:
   - Node.JS
   - javascript
   - JSX files
-  - MERN Stack developement
+  - MERN Stack
   - Visual Studio Code
   - authentication & authorization
   - PostMan
