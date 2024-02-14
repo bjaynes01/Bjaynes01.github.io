@@ -8,10 +8,15 @@ permalink: projects/micromouse
 date: 2019-07-01
 labels:
   - Programming
-  - eclipse
+  - Eclipse
+  - Scene Builder
+  - FXML
+  - XML
   - Java
+  - Java Application Building
   - Github
   - Teamwork
+  - CSS
 summary: My team tried to develop an application for the Aurora Food Pantry to track volunteer hours of common volunteers at the pantry.
 ---
 
