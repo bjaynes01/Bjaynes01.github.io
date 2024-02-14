@@ -14,7 +14,8 @@ labels:
   - JSX files
   - MERN Stack developement
   - Visual Studio Code
-  - PostMaster
+  - authentication & authorization
+  - PostMan
   - CSS developement
 summary: For my capstone project my group decided to develop an application that would function like a social media platform for those who would want to share videgame ideas and art designs with others.
 ---
