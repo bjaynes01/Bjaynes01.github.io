@@ -22,4 +22,4 @@ summary: This project involved creating an application for organizing people int
 
 Project requirements were given to us by professor.  The stated requirements were to develop an application that that would randomly select students from a list (database) to be assigned a group table for an event every week.
  
-Source: <a href="https://github.com/JZipse/AUlunchFor4">AU Lunch for 4</a>
+Source: <a href="https://github.com/JZipse/AUlunchFor4"><i class="large github icon "></i>AU Lunch for 4</a>
