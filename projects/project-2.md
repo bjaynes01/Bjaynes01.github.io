@@ -10,7 +10,7 @@ labels:
   - Javascript
   - Bootstrap
   - GitHub
-  - node
+  - node.js
   - npm modules
 summary: This project involved creating an application for to organize alot of people into meetings for lunch.  
 ---
