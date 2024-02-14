@@ -21,7 +21,7 @@ summary: For my capstone project my group decided to develop an application that
 
 <img class="ui image" src="{{ site.baseurl }}/images/GamingArt.jpg">
 
-This was our Capstone project called GART - It was developed under the idea of making a social media center where game developers and artists could collaborate and post files for sharing.  Its purpose was to encourage more collaboration between a videogames fan base and its developers as there can be more often then not a huge disconnect between where the fans of a game want developement and the direction that developers take their game ideas.    
+This was my Aurora Univeristy Capstone project called GART - I was in a group of four tasked with developing an app of our own design. My team decided to pursue the idea of making a social media centered on connecting game developers and artists so that they could collaborate.  Its purpose was to encourage more collaboration between a videogames fan base and its developers as there can be more often then not a huge disconnect between where the fans of a game want developement and the direction that developers take when developing their game.    
 
 <hr>
 
