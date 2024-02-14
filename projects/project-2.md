@@ -7,7 +7,9 @@ permalink: projects/Lunchfor4
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
+  - HTML
   - Javascript
+  - CSS
   - Bootstrap
   - GitHub
   - node.js
