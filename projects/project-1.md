@@ -8,6 +8,7 @@ permalink: projects/micromouse
 date: 2019-07-01
 labels:
   - Programming
+  - eclipse
   - Java
   - Github
   - Teamwork
