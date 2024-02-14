@@ -16,7 +16,7 @@ labels:
   - Visual Studio Code
   - PostMan
   - CSS developement
-summary: For my capstone project my group decided to develop an application that would function like a social media platform for those who would want to share videgame ideas and art designs with others.
+summary: For my capstone project my group decided to develop an application that would function as a social media platform aimed at encouraging game developers to pay more attention to the ideas that their fan bases come up with.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/GamingArt.jpg">
