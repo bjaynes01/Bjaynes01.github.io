@@ -5,7 +5,7 @@ image: images/computer.jpg
 title: AU Lunch for 4
 permalink: projects/Lunchfor4
 # All dates must be YYYY-MM-DD format!
-date: 2019-06-15
+date: 2020-12-15
 labels:
   - Javascript
   - Bootstrap
