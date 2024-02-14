@@ -16,7 +16,7 @@ labels:
   - Visual Studio Code
   - PostMaster
   - CSS developement
-summary: For my capstone project my groupd decided to develope an application that would function alot like a social media platform for those who would want to share videgame are with others.
+summary: For my capstone project my group decided to develope an application that would function alot like a social media platform for those who would want to share videgame are with others.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/GamingArt.jpg">
