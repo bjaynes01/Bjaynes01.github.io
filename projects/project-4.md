@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/FE_Conveyor-01-23-NCC_Automated_Systems.jpg
-title: GART - Gaming Art
-permalink: projects/GART
+title: Conveyer Belt Project
+permalink: projects/Conveyer
 # All dates must be YYYY-MM-DD format!
-date: 2021-03-20
+date: 2021-12-06
 labels:
   - .net
   - C#
@@ -24,6 +24,6 @@ This was a program I developed in my programing languages course at Aurora Unive
 
 <hr>
 
-Source: <a href="https://github.com/bjaynes01/CSC4990GART"><i class="large github icon "></i>GART- source</a>
+Source: <a href="https://github.com/bjaynes01/Conveyor_Belt_Project"><i class="large github icon "></i>Conveyer Belt Project</a>
 
 
