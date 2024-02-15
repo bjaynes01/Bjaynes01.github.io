@@ -21,7 +21,7 @@
 }
 
 /* Mobile */
-@media only screen and (max-width: 999px) {
+@media only screen and (max-width: 767px) {
   .ui.container {
     width: auto !important;
     margin-left: 1em !important;
@@ -39,7 +39,6 @@
 }
 
 /* Tablet */
-/*
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .ui.container {
     width: 723px;
@@ -56,10 +55,9 @@
     width: calc( 723px  +  5rem ) !important;
   }
 }
-*/
 
 /* Small Monitor */
-@media only screen and (min-width: 1000px) and (max-width: 1199px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
   .ui.container {
     width: 933px;
     margin-left: auto !important;
