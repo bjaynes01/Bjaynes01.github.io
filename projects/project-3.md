@@ -18,8 +18,9 @@ labels:
   - CSS developement
 summary: For my capstone project my group decided to develop an application that would function as a social media platform aimed at encouraging game developers to pay more attention to the ideas that their fanbase come up with.
 ---
-
+<div class="ui medium rounded images">
 <img class="ui image" src="{{ site.baseurl }}/images/GamingArt.jpg">
+</div>
 
 This was my Aurora Univeristy Capstone project called GART - I was in a group of four tasked with developing an app of our own design. My team decided to pursue the idea of making a social media centered on connecting game developers and artists so that they could collaborate.  Its purpose was to encourage more collaboration between a videogames fan base and its developers and to allow developers to more acurately develop content that will entertain their playerbase.    
 
