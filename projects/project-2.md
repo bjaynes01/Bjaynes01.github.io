@@ -19,7 +19,7 @@ summary: This project involved creating an application for organizing people int
 ---
 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/workday_lunch_ideas.jpeg.jpg.webp">
 </div>
 
