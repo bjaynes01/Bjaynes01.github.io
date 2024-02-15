@@ -20,7 +20,7 @@ labels:
 summary: The goal of this Project was to develop an application for the Aurora Food Pantry to track volunteer hours of individual volunteers who volunteered often at the pantry.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/Interfaith_food_pantry_logo_031-1.png">
 </div>
 
