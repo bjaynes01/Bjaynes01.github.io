@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/computer.jpg
+image: images/workday_lunch_ideas.jpeg.jpg.webp
 title: AU Lunch for 4
 permalink: projects/Lunchfor4
 # All dates must be YYYY-MM-DD format!
@@ -20,7 +20,7 @@ summary: This project involved creating an application for organizing people int
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/computer.jpg">
+  <img class="ui image" src="../images/workday_lunch_ideas.jpeg.jpg.webp">
 </div>
 
 Project requirements were given to us by professor.  The stated requirements were to develop an application that that would randomly select students from a list (database) to be assigned a group table for an event every week.
