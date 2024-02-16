@@ -2,11 +2,17 @@
 
 {% if site.data.bio.certifications %}
 <div class="row">
-  <div class="two wide column" style="width:300px">
+  <!--
+  class="two wide column"
+  -->
+  <div  style="width:300px;">
     <h3 class="ui left aligned header no-bottom">Certifications</h3>
   </div>
 
-  <div class="fourteen wide column no-bottom" style="width:700px">
+  <!--
+  class="fourteen wide column no-bottom"
+  -->
+  <div style="width:700px;">
     {% for entry in site.data.bio.certifications %}
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
