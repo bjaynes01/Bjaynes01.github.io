@@ -18679,7 +18679,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .column.row > [class*="two wide"].column,
 .ui.grid > [class*="two wide"].column,
 .ui.column.grid > [class*="two wide"].column {
-  width: 12.5% !important;
+  width: 15.0% !important;
 }
 
 .ui.grid > .row > [class*="three wide"].column,
@@ -18770,7 +18770,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .column.row > [class*="fifteen wide"].column,
 .ui.grid > [class*="fifteen wide"].column,
 .ui.column.grid > [class*="fifteen wide"].column {
-  width: 93.75% !important;
+  width: 91.25% !important;
 }
 
 .ui.grid > .row > [class*="sixteen wide"].column,
