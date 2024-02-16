@@ -27,7 +27,21 @@
           <p>test1</p>
         </div>
         <div class="eight wide left aligned column no-bottom">
-          <p>test2</p>
+          <p class="ui no-bottom"><b>
+            {% if entry.startDate %}
+            {{ entry.startDate | slice: 0,4 }}
+            {% endif %}
+            {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
+            -
+            {% endif %}
+            {% if entry.endDate %}
+              {% if entry.endDate != "Present" %}
+                {{ entry.endDate | slice: 0,4 }}
+              {% else %}
+                {{ entry.endDate }}
+              {% endif %}
+            {% endif %}
+          </b></p>
         </div>
       </div>
       <p class="ui no-bottom"><b>
