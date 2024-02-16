@@ -66,11 +66,12 @@
         "SQL",
         "Python",
         "C",
-        "C++"
+        "C++",
+        "C#"
       ]
     },
     {
-      "name": "Cloud & Data Technologies",
+      "name": "Cloud & Data",
       "level": "",
       "keywords": [
         "Azure Cloud",
@@ -81,18 +82,19 @@
       ]
     },
     {
-      "name": "Web Developement Technologies & Frameworks",
+      "name": "Web Developement & Frameworks",
       "level": "",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
         "Node.js",
-        "MERN Stack"
+        "MERN Stack",
+        ".net"
       ]
     },
     {
-      "name": "Version Control & Task Tracking",
+      "name": "Version Control",
       "level": "",
       "keywords": [
         "GIT/Github",
